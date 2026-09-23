@@ -1,0 +1,35 @@
+name: titanfit
+description: TitanFit - Gestión de gimnasio. Proyecto final ADSO SENA, Yulied Marcela Lopez, ficha 3311983.
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.13.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite: ^2.4.2
+  path: ^1.9.1
+  path_provider: ^2.1.5
+  http: ^1.5.0
+  connectivity_plus: ^6.1.5
+  provider: ^6.1.5
+  shared_preferences: ^2.5.3
+  intl: ^0.20.2
+  uuid: ^4.5.1
+  crypto: ^3.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/icon.png
+  fonts:
+    - family: Anton
+      fonts:
+        - asset: assets/fonts/Anton-Regular.ttf

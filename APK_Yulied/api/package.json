@@ -1,0 +1,19 @@
+{
+  "name": "titanfit-api",
+  "version": "1.0.0",
+  "description": "API REST TitanFit - Proyecto Final ADSO SENA ficha 3311983",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "author": "Yulied Marcela Lopez",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2"
+  }
+}

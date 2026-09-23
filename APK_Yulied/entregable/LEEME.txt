@@ -1,0 +1,19 @@
+TitanFit — listo para otro PC Windows
+Aprendiz: Yulied Marcela Lopez · ADSO SENA · Ficha 3311983
+
+1. Extrae este ZIP.
+2. Instala Node.js LTS: https://nodejs.org
+3. En VS Code: File → Open Folder → carpeta APK_Yulied
+4. Terminal:
+   cd api
+   npm install
+   npm start
+5. Instala en el celular: entregable\TitanFit-YuliedMarcelaLopez.apk
+6. En la app, Perfil → URL = http://IP-DE-ESTE-PC:3000
+   (en el PC: ipconfig → IPv4 Wi-Fi)
+
+Cliente: yulied@titanfit.co / Yulied123*
+Admin:   admin@titanfit.co / Admin123*
+
+Guía completa: GUIA_WINDOWS.md
+Informe: INFORME.md

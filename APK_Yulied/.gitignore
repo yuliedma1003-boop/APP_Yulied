@@ -1,0 +1,30 @@
+# Flutter
+app/.dart_tool/
+app/.idea/
+app/build/
+app/.flutter-plugins
+app/.flutter-plugins-dependencies
+app/.metadata
+app/*.iml
+app/linux/flutter/ephemeral/
+
+# Android
+app/android/.gradle/
+app/android/local.properties
+app/android/app/debug
+app/android/app/profile
+app/android/app/release
+app/android/captures/
+
+# API
+api/node_modules/
+api/data/*.db
+api/data/*.db-wal
+api/data/*.db-shm
+
+# OS
+.DS_Store
+*.log
+
+.gradle-home/
+.tmp/
